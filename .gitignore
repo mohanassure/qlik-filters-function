@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.egg-info/
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Azure Functions local settings (never push secrets)
+local.settings.json
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment
+.env
